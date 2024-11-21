@@ -1,3 +1,7 @@
+<h1>trid is cheating</h1>
+<h2>General Skills CTF</h2>
+<p>Find the flag by searching through the provided files. No resources or tools necessary besides those typically included in your OS.</p>
+
 <details>
 <summary>HINT 1</summary>
   You don't need to modify any of the files besides changing their extension.
