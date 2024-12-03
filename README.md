@@ -14,6 +14,5 @@
 
 <details>
 <summary>HINT 3</summary>
-  Fun fact: a lot of photo viewers will actually be fine opening a file with an incorrect extension, as long as it's an image.
-  This is really frustrating if, say, someone went through the effort of making sure an image was in a particular rare format, but whatever.
+  Fun fact: a lot of photo viewers will actually be fine opening an image with an incorrect extension. It just has to be some kind of image.
 </details>
